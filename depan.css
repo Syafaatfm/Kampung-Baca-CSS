@@ -642,7 +642,7 @@
             border: 1px solid #ddd;
             /*margin: 0 0 20px 0*/
         }
-        .widget ul {
+        #sidebar .widget ul {
            padding: 0 0 0 7px!important;
         }
         #sidebar .widget h2 {
