@@ -162,7 +162,7 @@ text-decoration: none;
     background: linear-gradient(135deg,#2403a9 0,#8f0284 44%,#006d68 100%);}
 .related-post ul{margin:0;padding:0}
 .related-post-style-3,.related-post-style-3 li{margin:auto;text-align:left;padding:0;list-style:none;word-wrap:break-word}
-.related-post-style-3 li a{color:#263034;font-family: Trebuchet MS, sans-serif;font-weight:700;font-size:13px;line-height:1.4em}
+.related-post-style-3 li a{color:#263034;font-weight:700;font-size:13px;line-height:1.4em}
 .related-post-style-3 li:hover a,.related-post-style-3 li a:hover{color:#E73037}
 .related-post-style-3 .related-post-item{display:inline-block;float:left;width:29.2%;height:250px;padding:0;margin-left:3%;margin-bottom:15px;position:relative;overflow:hidden}
 .related-post-style-3 .related-post-item:focus{outline:none;border:none}
