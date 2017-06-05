@@ -266,7 +266,7 @@
         }
         
         #main .widget {
-            display: none
+            display: inherit;
         }
         
         #main .widget.Blog {
