@@ -14,7 +14,7 @@ small{font-style: italic;font-size: 80%;}
     filter: alpha(opacity=90);
     display: block;}
             /* Disqus Comments */
-          .iklan{padding-top:5px;text-align: center;}
+          .iklan{padding-top:5px;padding-bottom:5px;text-align: center;}
              #comments { padding: 0 10px;
                 
             }
