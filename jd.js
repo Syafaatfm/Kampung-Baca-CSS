@@ -8,7 +8,7 @@ function recentPosts(e) {
                 }
             "media$thumbnail" in r[l] ? u = r[l].media$thumbnail.url.replace(/.*?:\/\//g, "//").replace(/\/s[0-9]+\-c/g, "/s90") : u = "https://1.bp.blogspot.com/-jHWwEwTEwQ4/WJJ4k71QSYI/AAAAAAAApVc/XO_OitR_VGQS_Wquq1pv1h1D-dgiejSuQCLcB/s90/nothumb_large.png";
             var t = r[l].title.$t;
-            n += '<li class="recent-posts"><div class="title_post"><a href="' + s + '" title="' + t + '" target="_blank">' + t + '"<img src="' + u + '" alt="' + t + '"></a></div></li>"
+            n += '<li class="recent-posts"><div class="title_post"><a href="' + s + '" title="' + t + '" target="_blank">' + t + '"<img src="' + u + '" alt="' + t + "></a></div></li>"
         }
         a.innerHTML = n
     }
